@@ -8,7 +8,6 @@ import Allimg from "../assets/imegs/all-imags.png";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { MdOutlineVerticalAlignTop } from "react-icons/md";
-// import { TbBatteryCharging } from "react-icons/tb";
 import axios from "axios";
 
 const Home = () => {
